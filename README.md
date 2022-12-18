@@ -1,6 +1,4 @@
-# Real-Time-Bus-Tracking
 <h1>Real Time Bus Tracking</h1>
-
 
 <h2>DESCRIPTION</h2>
 <p>During the week 9, the exercise was to use an API to source real-time data of the Boston MBTA busses. We had to display the live location of the busses on a map of city.</p>
@@ -17,7 +15,6 @@
 
 <h3>Roadmap of future improvements</h3>
 <p>Use a real time GPS tracking to see where is the bus in real time.</p>
-
 
 
 <h3>License Information</h3>
